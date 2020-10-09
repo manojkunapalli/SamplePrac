@@ -5,5 +5,6 @@ public class sequence {
         System.out.println("welcome to the program");
         Scanner input = new Scanner(System.in);
         int t = input.nextInt();
+        System.out.println("Given input is "+t);
     }
 }
